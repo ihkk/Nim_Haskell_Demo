@@ -1,0 +1,1 @@
+A possible solution to *Programming in Haskell* Chapter 10 exercise, Nim Game.
